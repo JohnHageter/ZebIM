@@ -1,0 +1,7 @@
+.vs/
+bin/
+bin-int/
+linking/
+x64/
+
+.user
